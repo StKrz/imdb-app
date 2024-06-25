@@ -54,7 +54,7 @@ src
 └── main
    └── java
       └── gr
-         └── grantthornton
+         └── gt
             └── cf
                └── imdbapp
                   ├── controller
@@ -77,7 +77,7 @@ src
                   └── changelog
                      └── db.changelog-master.xml
 ````
-### src/main/java/com/grantthornton/cd/imdbapp/:
+### src/main/java/com/gt/cf/imdbapp/:
 
 - ImdbAppApplication.java: Main Spring Boot application class.
 - controller/MovieController.java: Handles incoming REST API requests.
