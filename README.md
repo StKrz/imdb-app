@@ -101,7 +101,7 @@ spring.application.name=imdb-app
 ## IMDB API Configuration
 ````
 imdb.api.url=https://imdb8.p.rapidapi.com/title/find?q= 
-imdb.api.key=e25ce86aebmsh43574cbd727da86p17b382jsne8425c50d062
+imdb.api.key=**********
 imdb.api.host=imdb8.p.rapidapi.com
 ````
 
